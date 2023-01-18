@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 themes here https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-gibson&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-gibson&hide=html)
