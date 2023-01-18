@@ -35,7 +35,7 @@ themes here https://github.com/anuraghazra/github-readme-stats/blob/master/theme
 </picture>
 
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
@@ -46,7 +46,7 @@ themes here https://github.com/anuraghazra/github-readme-stats/blob/master/theme
 />
 <img src="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true" />
 </picture>
-
+ -->
 
 
 
