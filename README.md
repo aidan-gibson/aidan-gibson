@@ -23,5 +23,5 @@ themes here https://github.com/anuraghazra/github-readme-stats/blob/master/theme
 
 
 ![Aidan's GitHub stats](https://github-readme-stats-phi-pearl.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
