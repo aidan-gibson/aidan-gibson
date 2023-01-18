@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-gibson&langs_count=8)
