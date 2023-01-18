@@ -18,10 +18,42 @@ themes here https://github.com/anuraghazra/github-readme-stats/blob/master/theme
 
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+![Aidan's GitHub stats](https://github-readme-stats-phi-pearl.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true&theme=tokyonight)
 -->
 
 
 
-![Aidan's GitHub stats](https://github-readme-stats-phi-pearl.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats-phi-pearl.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-phi-pearl.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-phi-pearl.vercel.app/api?username=aidan-gibson&count_private=true&show_icons=true" />
+</picture>
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true" />
+</picture>
+
+
+
+
+
 
