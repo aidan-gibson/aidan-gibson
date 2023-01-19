@@ -35,20 +35,18 @@ themes here https://github.com/anuraghazra/github-readme-stats/blob/master/theme
 </picture>
 
 
-<!-- <picture>
+<picture>
 <source 
-  srcset="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true&theme=tokyonight"
+  srcset="https://bit.ly/3wdJ92d"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true"
+  srcset="https://bit.ly/3Woj8Yy"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&hide=javascript,html,css,scss&layout=compact&count_private=true" />
+<img src="https://bit.ly/3Woj8Yy" />
 </picture>
- -->
 
-
-
-
-
+<!-- dark one is https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&show_icons=true&layout=compact&theme=tokyonight&hide=html,scss,css&langs_count=6
+light one is https://github-readme-stats-phi-pearl.vercel.app/api/top-langs/?username=aidan-gibson&show_icons=true&layout=compact&hide=html,scss,css&langs_count=6
+gh was not loading the options -->
